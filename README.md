@@ -1,9 +1,11 @@
-# hackintosh_asus_X550VX
+# hackintosh Asus X550VX
 
 ## What this?
 
 This is Apple's Operating System that running on non-native apple devices that called hackintosh.
-Im currently using Asus X550VX and running on macOS Monterey
+Im currently using Asus X550VX and running on macOS Monterey.
+
+OpenCore Version : 0.8.8
 
 # My Laptop Specs
 * Processor : Intel i7-6700HQ SkyLake
