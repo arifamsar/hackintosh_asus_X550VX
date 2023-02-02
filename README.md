@@ -27,6 +27,10 @@ OpenCore Version : 0.8.8
 - Intel Virtualization : Enabled
 - VT-d : Enabled
 
+# Some Screenshots
+![LightMode](../img/2.png)
+![DarkMode](../img/1/png)
+
 # Credits :
 - Dortania
 - Hackintosh Lover
