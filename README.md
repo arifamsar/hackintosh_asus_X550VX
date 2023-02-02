@@ -28,8 +28,8 @@ OpenCore Version : 0.8.8
 - VT-d : Enabled
 
 # Some Screenshots
-![LightMode](../img/2.png)
-![DarkMode](../img/1/png)
+<img src="https://raw.githubusercontent.com/dialgacylert/hackintosh_asus_X550VX/main/img/1.png?token=GHSAT0AAAAAAB6FA76J6OEZZMFL4RJOW6OQY63UGKQ">
+<img src="https://raw.githubusercontent.com/dialgacylert/hackintosh_asus_X550VX/main/img/2.png?token=GHSAT0AAAAAAB6FA76IBMMFCAFOPHWFVY4GY63UH6Q">
 
 # Credits :
 - Dortania
