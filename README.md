@@ -1,6 +1,6 @@
 # hackintosh Asus X550VX
 
-## What this?
+## What's this?
 
 This is Apple's Operating System that running on non-native apple devices that called hackintosh.
 Im currently using Asus X550VX and running on macOS Monterey.
