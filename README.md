@@ -1,0 +1,1 @@
+# hackintosh_asus_X550VX
