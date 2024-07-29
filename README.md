@@ -3,7 +3,7 @@
 ## What's this?
 
 This is Apple's Operating System that running on non-native apple devices that called hackintosh.
-Im currently using Asus X550VX and running on macOS Monterey.
+The post that has made is Asus X550VX running on macOS Monterey.
 
 OpenCore Version : 0.8.8
 
